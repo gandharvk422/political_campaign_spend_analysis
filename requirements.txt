@@ -1,1 +1,4 @@
-strstrs
+streamlit
+pandas
+plotly
+numpy
