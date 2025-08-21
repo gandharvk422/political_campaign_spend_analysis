@@ -53,8 +53,8 @@ electoral participation.
 1.  Clone the repository:
 
     ``` bash
-    git clone <repo-url>
-    cd <repo-folder>
+    git clone https://github.com/gandharvk422/political_campaign_spend_analysis
+    cd "Political Campaign Spend Analysis"
     ```
 
 2.  Install dependencies:
